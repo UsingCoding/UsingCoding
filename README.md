@@ -12,17 +12,17 @@
 
 I'm backend engineer from Russia.
 
-* 🔥 I'm intresting in Kubernetes and cloud native solutions, like Prometheus, Grafana, K3S and e.t.c.
+* 🔥 I'm intrested in Kubernetes and cloud native solutions, like Prometheus, Grafana, K3S and e.t.c.
 
-* 🐳 Intresting in Docker and docker solutions like BuildKit and VSCode devcontainers.
+* 🐳 Intrested in Docker and docker solutions like BuildKit and VSCode devcontainers.
 
 * Every day working with DDD and Clean Architecture principles
 
-* I'm propagandize principle "**Docker everywhere**" - each my project properly dockerized(even mobile development projects). I think it's a cool principle that let achieve independent platform development and full project development workflow repetition.
+* I propagandize principle "**Docker everywhere**" - each my project properly dockerized(even mobile development projects). I think it's a cool principle that let achieve independent platform development and full project development workflow repetition.
 
 * I have expreience in Frontend development with virtual DOM libraries like hyperHTML.
 
-* Intresting in mobile development with Flutter, even when it was in beta. 
+* Intrested in mobile development with Flutter, even when it was in beta. 
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Golang+%2B+Docker+%2B+Kubernetes;Microservice+architecture+%2B+DDD" alt="Typing SVG" />
 
